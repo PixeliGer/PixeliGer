@@ -1,4 +1,9 @@
+<!-- Banner -->
+![PixeliGer Banner Image](./assets/iger_banner.gif)
 
+&nbsp;
+
+<!-- Header -->
 <h3 align="center">
   <samp>❱ Hey There!, I am
     <b>
@@ -7,7 +12,9 @@
   </samp>
 </h3>
 
+&nbsp;
 
+<!-- Teck Stack Info -->
 <h2 align="center">
   <samp>
     💻 Technology Stack
