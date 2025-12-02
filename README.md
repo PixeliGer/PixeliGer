@@ -15,11 +15,7 @@
 &nbsp;
 
 <!-- Teck Stack Info -->
-<h2>
-  <samp>
-    💻 Technology Stack
-    </samp>
-</h2>
+## <samp> 💻 Technology Stack </samp>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -50,11 +46,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>
-  <sam>
-   :space_invader: Other Geek Stuff    
-  </sam>
-</h3>
+
+## <samp> :space_invader: Other Geek Stuff </samp>
 
 [![Pixel Prime](https://github-readme-stats-eight-xi-82.vercel.app/api/pin/?username=pixeliger&repo=opl-theme-pixel-prime&theme=radical&border_color=7F3FBF)](https://github.com/pixeliger/opl-theme-pixel-prime)
 [![Ominence](https://github-readme-stats-eight-xi-82.vercel.app/api/pin/?username=pixeliger&repo=opl-theme-ominence&theme=radical&border_color=7F3FBF)](https://github.com/pixeliger/opl-theme-pixel-prime)
