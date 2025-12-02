@@ -15,7 +15,7 @@
 &nbsp;
 
 <!-- Teck Stack Info -->
-<h2 align="center">
+<h2>
   <samp>
     💻 Technology Stack
     </samp>
@@ -49,3 +49,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3>
+  <sam>
+   :space_invader: Other Geek Stuff    
+  </sam>
+</h3>
+
+[![Pixel Prime](https://github-readme-stats-eight-xi-82.vercel.app/api/pin/?username=pixeliger&repo=opl-theme-pixel-prime&theme=radical&border_color=7F3FBF)](https://github.com/pixeliger/opl-theme-pixel-prime)
+[![Ominence](https://github-readme-stats-eight-xi-82.vercel.app/api/pin/?username=pixeliger&repo=opl-theme-ominence&theme=radical&border_color=7F3FBF)](https://github.com/pixeliger/opl-theme-pixel-prime)
