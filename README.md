@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 ## <samp> :space_invader: Other Geek Stuff </samp>
 
 [![Pixel Prime](https://github-readme-stats-eight-xi-82.vercel.app/api/pin/?username=pixeliger&repo=opl-theme-pixel-prime&theme=radical&border_color=7F3FBF)](https://github.com/pixeliger/opl-theme-pixel-prime)
-[![Ominence](https://github-readme-stats-eight-xi-82.vercel.app/api/pin/?username=pixeliger&repo=opl-theme-ominence&theme=radical&border_color=7F3FBF)](https://github.com/pixeliger/opl-theme-pixel-prime)
+[![Ominence](https://github-readme-stats-eight-xi-82.vercel.app/api/pin/?username=pixeliger&repo=opl-theme-ominence&theme=radical&border_color=7F3FBF)](https://github.com/pixeliger/opl-theme-ominence)
