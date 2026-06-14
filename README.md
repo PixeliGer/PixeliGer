@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  [![Pixel Prime](https://pixel-readme-stats-pixeligers-projects.vercel.app/api/pin/?username=pixeliger&repo=opl-theme-pixel-prime&theme=radical&border_color=7F3FBF)](https://github.com/pixeliger/opl-theme-pixel-prime)
-  [![Ominence](https://pixel-readme-stats-pixeligers-projects.vercel.app/api/pin/?username=pixeliger&repo=opl-theme-ominence&theme=radical&border_color=7F3FBF)](https://github.com/pixeliger/opl-theme-ominence)
-  [![DeckyOS](https://pixel-readme-stats-pixeligers-projects.vercel.app/api/pin/?username=pixeliger&repo=opl-theme-deckyos&theme=radical&border_color=7F3FBF)](https://github.com/pixeliger/opl-theme-deckyos)
+  [![Pixel Prime](https://github-readme-stats.vercel.app/api/pin/?username=pixeliger&repo=opl-theme-pixel-prime&theme=radical&border_color=7F3FBF)](https://github.com/pixeliger/opl-theme-pixel-prime)
+  [![Ominence](https://github-readme-stats.vercel.app/api/pin/?username=pixeliger&repo=opl-theme-ominence&theme=radical&border_color=7F3FBF)](https://github.com/pixeliger/opl-theme-ominence)
+  [![DeckyOS](https://github-readme-stats.vercel.app/api/pin/?username=pixeliger&repo=opl-theme-deckyos&theme=radical&border_color=7F3FBF)](https://github.com/pixeliger/opl-theme-deckyos)
   
 </div>
 
